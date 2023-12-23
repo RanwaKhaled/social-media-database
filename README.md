@@ -6,6 +6,6 @@ This repository contains:
 * Comments
 * Posts
 * Reactions
-* Messages
-**Python GUI Files:** containing the GUI and linking it to the MySQL database
+* Messages <br>
+**Python GUI Files:** containing the GUI and linking it to the MySQL database<br>
 N:B: Begin by running the GUI from the <i>loginpage.py</i> file
